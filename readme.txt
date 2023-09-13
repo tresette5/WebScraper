@@ -1,4 +1,4 @@
-### WebScraper375 - v2.0 ###
+### WebScraper375 - v2.1 ###
 
 
 ## Requisiti di Sistema
@@ -11,7 +11,8 @@
 
 
 ## Utilizzo
-1. Estrai la cartella scraper_vx.x e lancia l'exe scraper_vx.x senza spostarlo dalla sua cartella.
+1. Scarica la cartella zip dalla repository cliccando sul tasto verde chiamato "Code" e su "Download ZIP" nel menù a tendina.
+Estrai la cartella scraper_vx.x e lancia l'exe scraper_vx.x senza spostarlo dalla sua cartella.
 
 2. Oltre alla finestra dell'applicazione verrà lanciato anche un terminale che NON deve essere chiuso
 fintanto che il programma è in funzione.
